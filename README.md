@@ -3,7 +3,7 @@ Hello, I am Gideon Tross, with a Postgraduate Diploma (PGD) in Computer Science,
 ## WHAT I DO  
 *I provide professional IT solutions that help individuals, schools, and businesses improve their digital operations. My expertise includes*:
 
-Data Analysis – Transforming raw data into meaningful reports and insights for better decision-making.
+**Data Analysis** – Transforming raw data into meaningful reports and insights for better decision-making.
 Computer Networking – Installing, configuring, securing, and maintaining computer networks.
 Software Development – Developing customized desktop and web applications to meet client needs.
 Website Design & Hosting – Creating responsive, user-friendly websites and deploying them online.
