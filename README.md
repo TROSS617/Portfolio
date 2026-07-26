@@ -1,7 +1,5 @@
 ## ABOUT ME
-Hello, I am Gideon Tross, a data analyst, Educator, and tutor with a passion for data into
-actionable insightas. With experience across, operations, business and customer service, I help business solve challenges
-
+Hello, I am Gideon Tross, with a Postgraduate Diploma (PGD) in Computer Science, passionate about delivering innovative, reliable, and efficient technology solutions. I specialize in data analysis, networking, software development, website design, hosting, and IT support, helping organizations leverage technology to achieve their goals
 ## WHAT I DO  
 I provide professional IT solutions that help individuals, schools, and businesses improve their digital operations. My expertise includes:
 
