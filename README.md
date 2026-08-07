@@ -12,8 +12,8 @@ IT Support & System Maintenance – Troubleshooting hardware and software issues
 Cybersecurity Basics – Implementing security measures to protect systems, networks, and data.
 ## Contact
 Get connected to my services through;
-Tel No. 0780729771/0702906823
-Email. gideontross617@gmail.com
+#Tel No. 0780729771/0702906823
+#Email. gideontross617@gmail.com
 
 
 
